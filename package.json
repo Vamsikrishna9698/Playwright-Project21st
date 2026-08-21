@@ -1,0 +1,26 @@
+{
+  "name": "playwright-project21st",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vamsikrishna9698/Playwright-Project21st.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Vamsikrishna9698/Playwright-Project21st/issues"
+  },
+  "homepage": "https://github.com/Vamsikrishna9698/Playwright-Project21st#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.2.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
