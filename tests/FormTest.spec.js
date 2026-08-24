@@ -1,6 +1,6 @@
 
 import { test, expect } from '@playwright/test';
-import TestData from "../helpers/testData.json";
+import TestData from "../helpers/TestData.json"
 
 test("formvalidation", async({page}) => {
 await page.goto("https://demoqa.com/automation-practice-form");
